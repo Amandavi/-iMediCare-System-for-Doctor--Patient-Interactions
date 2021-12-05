@@ -1,0 +1,292 @@
+@charset "utf-8";
+/* CSS Document */
+
+.f-px-1 {font-size: 1px !important}.f-px-2 {font-size: 2px !important}.f-px-3 {font-size: 3px !important}.f-px-4 {font-size: 4px !important}.f-px-5 {font-size: 5px !important}.f-px-6 {font-size: 6px !important}.f-px-7 {font-size: 7px !important}.f-px-8 {font-size: 8px !important}.f-px-9 {font-size: 9px !important}.f-px-10 {font-size: 10px !important}.f-px-11 {font-size: 11px !important}.f-px-12 {font-size: 12px !important}.f-px-13 {font-size: 13px !important}.f-px-14 {font-size: 14px !important}.f-px-15 {font-size: 15px !important}.f-px-16 {font-size: 16px !important}.f-px-17 {font-size: 17px !important}.f-px-18 {font-size: 18px !important}.f-px-19 {font-size: 19px !important}.f-px-20 {font-size: 20px !important}.f-px-21 {font-size: 21px !important}.f-px-22 {font-size: 22px !important}.f-px-23 {font-size: 23px !important}.f-px-24 {font-size: 24px !important}.f-px-25 {font-size: 25px !important}.f-px-26 {font-size: 26px !important}.f-px-27 {font-size: 27px !important}.f-px-28 {font-size: 28px !important}.f-px-29 {font-size: 29px !important}.f-px-30 {font-size: 30px !important}.f-px-31 {font-size: 31px !important}.f-px-32 {font-size: 32px !important}.f-px-33 {font-size: 33px !important}.f-px-34 {font-size: 34px !important}.f-px-35 {font-size: 35px !important}.f-px-36 {font-size: 36px !important}.f-px-37 {font-size: 37px !important}.f-px-38 {font-size: 38px !important}.f-px-39 {font-size: 39px !important}.f-px-40 {font-size: 40px !important}.f-px-41 {font-size: 41px !important}.f-px-42 {font-size: 42px !important}.f-px-43 {font-size: 43px !important}.f-px-44 {font-size: 44px !important}.f-px-45 {font-size: 45px !important}.f-px-46 {font-size: 46px !important}.f-px-47 {font-size: 47px !important}.f-px-48 {font-size: 48px !important}.f-px-49 {font-size: 49px !important}.f-px-50 {font-size: 50px !important}.f-px-51 {font-size: 51px !important}.f-px-52 {font-size: 52px !important}.f-px-53 {font-size: 53px !important}.f-px-54 {font-size: 54px !important}.f-px-55 {font-size: 55px !important}.f-px-56 {font-size: 56px !important}.f-px-57 {font-size: 57px !important}.f-px-58 {font-size: 58px !important}.f-px-59 {font-size: 59px !important}.f-px-60 {font-size: 60px !important}.f-px-61 {font-size: 61px !important}.f-px-62 {font-size: 62px !important}.f-px-63 {font-size: 63px !important}.f-px-64 {font-size: 64px !important}.f-px-65 {font-size: 65px !important}.f-px-66 {font-size: 66px !important}.f-px-67 {font-size: 67px !important}.f-px-68 {font-size: 68px !important}.f-px-69 {font-size: 69px !important}.f-px-70 {font-size: 70px !important}.f-px-71 {font-size: 71px !important}.f-px-72 {font-size: 72px !important}.f-px-73 {font-size: 73px !important}.f-px-74 {font-size: 74px !important}.f-px-75 {font-size: 75px !important}.f-px-76 {font-size: 76px !important}.f-px-77 {font-size: 77px !important}.f-px-78 {font-size: 78px !important}.f-px-79 {font-size: 79px !important}.f-px-80 {font-size: 80px !important}.f-px-81 {font-size: 81px !important}.f-px-82 {font-size: 82px !important}.f-px-83 {font-size: 83px !important}.f-px-84 {font-size: 84px !important}.f-px-85 {font-size: 85px !important}.f-px-86 {font-size: 86px !important}.f-px-87 {font-size: 87px !important}.f-px-88 {font-size: 88px !important}.f-px-89 {font-size: 89px !important}.f-px-90 {font-size: 90px !important}.f-px-91 {font-size: 91px !important}.f-px-92 {font-size: 92px !important}.f-px-93 {font-size: 93px !important}.f-px-94 {font-size: 94px !important}.f-px-95 {font-size: 95px !important}.f-px-96 {font-size: 96px !important}.f-px-97 {font-size: 97px !important}.f-px-98 {font-size: 98px !important}.f-px-99 {font-size: 99px !important}.f-px-100 {font-size: 100px !important}
+
+
+/*border*/
+.b-none { border: none !important; }.b-0 { border: 0px !important; }
+
+.b-px-1 {border: 1px !important}.b-px-2 {border: 2px !important}.b-px-3 {border: 3px !important}.b-px-4 {border: 4px !important}.b-px-5 {border: 5px !important}.b-px-6 {border: 6px !important}.b-px-7 {border: 7px !important}.b-px-8 {border: 8px !important}.b-px-9 {border: 9px !important}.b-px-10 {border: 10px !important}
+
+.bl-px-1 {border-left: 1px !important}.bl-px-2 {border-left: 2px !important}.bl-px-3 {border-left: 3px !important}.bl-px-4 {border-left: 4px !important}.bl-px-5 {border-left: 5px !important}.bl-px-6 {border-left: 6px !important}.bl-px-7 {border-left: 7px !important}.bl-px-8 {border-left: 8px !important}.bl-px-9 {border-left: 9px !important}.bl-px-10 {border-left: 10px !important}
+
+.br-px-1 {border-right: 1px !important}.br-px-2 {border-right: 2px !important}.br-px-3 {border-right: 3px !important}.br-px-4 {border-right: 4px !important}.br-px-5 {border-right: 5px !important}.br-px-6 {border-right: 6px !important}.br-px-7 {border-right: 7px !important}.br-px-8 {border-right: 8px !important}.br-px-9 {border-right: 9px !important}.br-px-10 {border-right: 10px !important}
+
+.bt-px-1 {border-top: 1px !important}.bt-px-2 {border-top: 2px !important}.bt-px-3 {border-top: 3px !important}.bt-px-4 {border-top: 4px !important}.bt-px-5 {border-top: 5px !important}.bt-px-6 {border-top: 6px !important}.bt-px-7 {border-top: 7px !important}.bt-px-8 {border-top: 8px !important}.bt-px-9 {border-top: 9px !important}.bt-px-10 {border-top: 10px !important}
+
+.bb-px-1 {border-bottom: 1px !important}.bb-px-2 {border-bottom: 2px !important}.bb-px-3 {border-bottom: 3px !important}.bb-px-4 {border-bottom: 4px !important}.bb-px-5 {border-bottom: 5px !important}.bb-px-6 {border-bottom: 6px !important}.bb-px-7 {border-bottom: 7px !important}.bb-px-8 {border-bottom: 8px !important}.bb-px-9 {border-bottom: 9px !important}.bb-px-10 {border-bottom: 10px !important}
+
+
+.bra-0 {border-radius: 0px !important}.bra-bl-0 {border-bottom-left-radius: 0px !important}.bra-br-0 {border-bottom-right-radius: 0px !important}.bra-tl-0 {border-top-left-radius: 0px !important}.bra-tr-0 {border-top-right-radius: 0px !important}
+
+.bra-1 {border-radius: 1% !important}.bra-2 {border-radius: 2% !important}.bra-3 {border-radius: 3% !important}.bra-4 {border-radius: 4% !important}.bra-5 {border-radius: 5% !important}.bra-6 {border-radius: 6% !important}.bra-7 {border-radius: 7% !important}.bra-8 {border-radius: 8% !important}.bra-9 {border-radius: 9% !important}.bra-10 {border-radius: 10% !important}
+
+.bra-11 {border-radius: 11% !important}.bra-12 {border-radius: 12% !important}.bra-13 {border-radius: 13% !important}.bra-14 {border-radius: 14% !important}.bra-15 {border-radius: 15% !important}.bra-16 {border-radius: 16% !important}.bra-17 {border-radius: 17% !important}.bra-18 {border-radius: 18% !important}.bra-19 {border-radius: 19% !important}.bra-20 {border-radius: 20% !important}
+
+.bra-21 {border-radius: 21% !important}.bra-22 {border-radius: 22% !important}.bra-23 {border-radius: 23% !important}.bra-24 {border-radius: 24% !important}.bra-25 {border-radius: 25% !important}.bra-26 {border-radius: 26% !important}.bra-27 {border-radius: 27% !important}.bra-28 {border-radius: 28% !important}.bra-29 {border-radius: 29% !important}.bra-30 {border-radius: 30% !important}
+
+.bra-31 {border-radius: 31% !important}.bra-32 {border-radius: 32% !important}.bra-33 {border-radius: 33% !important}.bra-34 {border-radius: 34% !important}.bra-35 {border-radius: 35% !important}.bra-36 {border-radius: 36% !important}.bra-37 {border-radius: 37% !important}.bra-38 {border-radius: 38% !important}.bra-39 {border-radius: 39% !important}.bra-40 {border-radius: 40% !important}
+
+.bra-41 {border-radius: 41% !important}.bra-42 {border-radius: 42% !important}.bra-43 {border-radius: 43% !important}.bra-44 {border-radius: 44% !important}.bra-45 {border-radius: 45% !important}.bra-46 {border-radius: 46% !important}.bra-47 {border-radius: 47% !important}.bra-48 {border-radius: 48% !important}.bra-49 {border-radius: 49% !important}.bra-50 {border-radius: 50% !important}
+
+.bra-51 {border-radius: 51% !important}.bra-52 {border-radius: 52% !important}.bra-53 {border-radius: 53% !important}.bra-54 {border-radius: 54% !important}.bra-55 {border-radius: 55% !important}.bra-56 {border-radius: 56% !important}.bra-57 {border-radius: 57% !important}.bra-58 {border-radius: 58% !important}.bra-59 {border-radius: 59% !important}.bra-60 {border-radius: 60% !important}
+
+.bra-61 {border-radius: 61% !important}.bra-62 {border-radius: 62% !important}.bra-63 {border-radius: 63% !important}.bra-64 {border-radius: 64% !important}.bra-65 {border-radius: 65% !important}.bra-66 {border-radius: 66% !important}.bra-67 {border-radius: 67% !important}.bra-68 {border-radius: 68% !important}.bra-69 {border-radius: 69% !important}.bra-70 {border-radius: 70% !important}
+
+.bra-71 {border-radius: 71% !important}.bra-72 {border-radius: 72% !important}.bra-73 {border-radius: 73% !important}.bra-74 {border-radius: 74% !important}.bra-75 {border-radius: 75% !important}.bra-76 {border-radius: 76% !important}.bra-77 {border-radius: 77% !important}.bra-78 {border-radius: 78% !important}.bra-79 {border-radius: 79% !important}.bra-80 {border-radius: 80% !important}
+
+.bra-81 {border-radius: 81% !important}.bra-82 {border-radius: 82% !important}.bra-83 {border-radius: 83% !important}.bra-84 {border-radius: 84% !important}.bra-85 {border-radius: 85% !important}.bra-86 {border-radius: 86% !important}.bra-87 {border-radius: 87% !important}.bra-88 {border-radius: 88% !important}.bra-89 {border-radius: 89% !important}.bra-90 {border-radius: 90% !important}
+
+.bra-91 {border-radius: 91% !important}.bra-92 {border-radius: 92% !important}.bra-93 {border-radius: 93% !important}.bra-94 {border-radius: 94% !important}.bra-95 {border-radius: 95% !important}.bra-96 {border-radius: 96% !important}.bra-97 {border-radius: 97% !important}.bra-98 {border-radius: 98% !important}.bra-99 {border-radius: 99% !important}.bra-100 {border-radius: 100% !important}
+
+.bra-tl-1 {border-top-left-radius: 1% !important}.bra-tl-2 {border-top-left-radius: 2% !important}.bra-tl-3 {border-top-left-radius: 3% !important}.bra-tl-4 {border-top-left-radius: 4% !important}.bra-tl-5 {border-top-left-radius: 5% !important}.bra-tl-6 {border-top-left-radius: 6% !important}.bra-tl-7 {border-top-left-radius: 7% !important}.bra-tl-8 {border-top-left-radius: 8% !important}.bra-tl-9 {border-top-left-radius: 9% !important}.bra-tl-10 {border-top-left-radius: 10% !important}
+
+.bra-tl-11 {border-top-left-radius: 11% !important}.bra-tl-12 {border-top-left-radius: 12% !important}.bra-tl-13 {border-top-left-radius: 13% !important}.bra-tl-14 {border-top-left-radius: 14% !important}.bra-tl-15 {border-top-left-radius: 15% !important}.bra-tl-16 {border-top-left-radius: 16% !important}.bra-tl-17 {border-top-left-radius: 17% !important}.bra-tl-18 {border-top-left-radius: 18% !important}.bra-tl-19 {border-top-left-radius: 19% !important}.bra-tl-20 {border-top-left-radius: 20% !important}
+
+.bra-tl-21 {border-top-left-radius: 21% !important}.bra-tl-22 {border-top-left-radius: 22% !important}.bra-tl-23 {border-top-left-radius: 23% !important}.bra-tl-24 {border-top-left-radius: 24% !important}.bra-tl-25 {border-top-left-radius: 25% !important}.bra-tl-26 {border-top-left-radius: 26% !important}.bra-tl-27 {border-top-left-radius: 27% !important}.bra-tl-28 {border-top-left-radius: 28% !important}.bra-tl-29 {border-top-left-radius: 29% !important}.bra-tl-30 {border-top-left-radius: 30% !important}
+
+.bra-tl-31 {border-top-left-radius: 31% !important}.bra-tl-32 {border-top-left-radius: 32% !important}.bra-tl-33 {border-top-left-radius: 33% !important}.bra-tl-34 {border-top-left-radius: 34% !important}.bra-tl-35 {border-top-left-radius: 35% !important}.bra-tl-36 {border-top-left-radius: 36% !important}.bra-tl-37 {border-top-left-radius: 37% !important}.bra-tl-38 {border-top-left-radius: 38% !important}.bra-tl-39 {border-top-left-radius: 39% !important}.bra-tl-40 {border-top-left-radius: 40% !important}
+
+.bra-tl-41 {border-top-left-radius: 41% !important}.bra-tl-42 {border-top-left-radius: 42% !important}.bra-tl-43 {border-top-left-radius: 43% !important}.bra-tl-44 {border-top-left-radius: 44% !important}.bra-tl-45 {border-top-left-radius: 45% !important}.bra-tl-46 {border-top-left-radius: 46% !important}.bra-tl-47 {border-top-left-radius: 47% !important}.bra-tl-48 {border-top-left-radius: 48% !important}.bra-tl-49 {border-top-left-radius: 49% !important}.bra-tl-50 {border-top-left-radius: 50% !important}
+
+.bra-tl-51 {border-top-left-radius: 51% !important}.bra-tl-52 {border-top-left-radius: 52% !important}.bra-tl-53 {border-top-left-radius: 53% !important}.bra-tl-54 {border-top-left-radius: 54% !important}.bra-tl-55 {border-top-left-radius: 55% !important}.bra-tl-56 {border-top-left-radius: 56% !important}.bra-tl-57 {border-top-left-radius: 57% !important}.bra-tl-58 {border-top-left-radius: 58% !important}.bra-tl-59 {border-top-left-radius: 59% !important}.bra-tl-60 {border-top-left-radius: 60% !important}
+
+.bra-tl-61 {border-top-left-radius: 61% !important}.bra-tl-62 {border-top-left-radius: 62% !important}.bra-tl-63 {border-top-left-radius: 63% !important}.bra-tl-64 {border-top-left-radius: 64% !important}.bra-tl-65 {border-top-left-radius: 65% !important}.bra-tl-66 {border-top-left-radius: 66% !important}.bra-tl-67 {border-top-left-radius: 67% !important}.bra-tl-68 {border-top-left-radius: 68% !important}.bra-tl-69 {border-top-left-radius: 69% !important}.bra-tl-70 {border-top-left-radius: 70% !important}
+
+.bra-tl-71 {border-top-left-radius: 71% !important}.bra-tl-72 {border-top-left-radius: 72% !important}.bra-tl-73 {border-top-left-radius: 73% !important}.bra-tl-74 {border-top-left-radius: 74% !important}.bra-tl-75 {border-top-left-radius: 75% !important}.bra-tl-76 {border-top-left-radius: 76% !important}.bra-tl-77 {border-top-left-radius: 77% !important}.bra-tl-78 {border-top-left-radius: 78% !important}.bra-tl-79 {border-top-left-radius: 79% !important}.bra-tl-80 {border-top-left-radius: 80% !important}
+
+.bra-tl-81 {border-top-left-radius: 81% !important}.bra-tl-82 {border-top-left-radius: 82% !important}.bra-tl-83 {border-top-left-radius: 83% !important}.bra-tl-84 {border-top-left-radius: 84% !important}.bra-tl-85 {border-top-left-radius: 85% !important}.bra-tl-86 {border-top-left-radius: 86% !important}.bra-tl-87 {border-top-left-radius: 87% !important}.bra-tl-88 {border-top-left-radius: 88% !important}.bra-tl-89 {border-top-left-radius: 89% !important}.bra-tl-90 {border-top-left-radius: 90% !important}
+
+.bra-tl-91 {border-top-left-radius: 91% !important}.bra-tl-92 {border-top-left-radius: 92% !important}.bra-tl-93 {border-top-left-radius: 93% !important}.bra-tl-94 {border-top-left-radius: 94% !important}.bra-tl-95 {border-top-left-radius: 95% !important}.bra-tl-96 {border-top-left-radius: 96% !important}.bra-tl-97 {border-top-left-radius: 97% !important}.bra-tl-98 {border-top-left-radius: 98% !important}.bra-tl-99 {border-top-left-radius: 99% !important}.bra-tl-100 {border-top-left-radius: 100% !important}
+
+.bra-tr-1 {border-top-right-radius: 1% !important}.bra-tr-2 {border-top-right-radius: 2% !important}.bra-tr-3 {border-top-right-radius: 3% !important}.bra-tr-4 {border-top-right-radius: 4% !important}.bra-tr-5 {border-top-right-radius: 5% !important}.bra-tr-6 {border-top-right-radius: 6% !important}.bra-tr-7 {border-top-right-radius: 7% !important}.bra-tr-8 {border-top-right-radius: 8% !important}.bra-tr-9 {border-top-right-radius: 9% !important}.bra-tr-10 {border-top-right-radius: 10% !important}
+
+.bra-tr-11 {border-top-right-radius: 11% !important}.bra-tr-12 {border-top-right-radius: 12% !important}.bra-tr-13 {border-top-right-radius: 13% !important}.bra-tr-14 {border-top-right-radius: 14% !important}.bra-tr-15 {border-top-right-radius: 15% !important}.bra-tr-16 {border-top-right-radius: 16% !important}.bra-tr-17 {border-top-right-radius: 17% !important}.bra-tr-18 {border-top-right-radius: 18% !important}.bra-tr-19 {border-top-right-radius: 19% !important}.bra-tr-20 {border-top-right-radius: 20% !important}
+
+.bra-tr-21 {border-top-right-radius: 21% !important}.bra-tr-22 {border-top-right-radius: 22% !important}.bra-tr-23 {border-top-right-radius: 23% !important}.bra-tr-24 {border-top-right-radius: 24% !important}.bra-tr-25 {border-top-right-radius: 25% !important}.bra-tr-26 {border-top-right-radius: 26% !important}.bra-tr-27 {border-top-right-radius: 27% !important}.bra-tr-28 {border-top-right-radius: 28% !important}.bra-tr-29 {border-top-right-radius: 29% !important}.bra-tr-30 {border-top-right-radius: 30% !important}
+
+.bra-tr-31 {border-top-right-radius: 31% !important}.bra-tr-32 {border-top-right-radius: 32% !important}.bra-tr-33 {border-top-right-radius: 33% !important}.bra-tr-34 {border-top-right-radius: 34% !important}.bra-tr-35 {border-top-right-radius: 35% !important}.bra-tr-36 {border-top-right-radius: 36% !important}.bra-tr-37 {border-top-right-radius: 37% !important}.bra-tr-38 {border-top-right-radius: 38% !important}.bra-tr-39 {border-top-right-radius: 39% !important}.bra-tr-40 {border-top-right-radius: 40% !important}
+
+.bra-tr-41 {border-top-right-radius: 41% !important}.bra-tr-42 {border-top-right-radius: 42% !important}.bra-tr-43 {border-top-right-radius: 43% !important}.bra-tr-44 {border-top-right-radius: 44% !important}.bra-tr-45 {border-top-right-radius: 45% !important}.bra-tr-46 {border-top-right-radius: 46% !important}.bra-tr-47 {border-top-right-radius: 47% !important}.bra-tr-48 {border-top-right-radius: 48% !important}.bra-tr-49 {border-top-right-radius: 49% !important}.bra-tr-50 {border-top-right-radius: 50% !important}
+
+.bra-tr-51 {border-top-right-radius: 51% !important}.bra-tr-52 {border-top-right-radius: 52% !important}.bra-tr-53 {border-top-right-radius: 53% !important}.bra-tr-54 {border-top-right-radius: 54% !important}.bra-tr-55 {border-top-right-radius: 55% !important}.bra-tr-56 {border-top-right-radius: 56% !important}.bra-tr-57 {border-top-right-radius: 57% !important}.bra-tr-58 {border-top-right-radius: 58% !important}.bra-tr-59 {border-top-right-radius: 59% !important}.bra-tr-60 {border-top-right-radius: 60% !important}
+
+.bra-tr-61 {border-top-right-radius: 61% !important}.bra-tr-62 {border-top-right-radius: 62% !important}.bra-tr-63 {border-top-right-radius: 63% !important}.bra-tr-64 {border-top-right-radius: 64% !important}.bra-tr-65 {border-top-right-radius: 65% !important}.bra-tr-66 {border-top-right-radius: 66% !important}.bra-tr-67 {border-top-right-radius: 67% !important}.bra-tr-68 {border-top-right-radius: 68% !important}.bra-tr-69 {border-top-right-radius: 69% !important}.bra-tr-70 {border-top-right-radius: 70% !important}
+
+.bra-tr-71 {border-top-right-radius: 71% !important}.bra-tr-72 {border-top-right-radius: 72% !important}.bra-tr-73 {border-top-right-radius: 73% !important}.bra-tr-74 {border-top-right-radius: 74% !important}.bra-tr-75 {border-top-right-radius: 75% !important}.bra-tr-76 {border-top-right-radius: 76% !important}.bra-tr-77 {border-top-right-radius: 77% !important}.bra-tr-78 {border-top-right-radius: 78% !important}.bra-tr-79 {border-top-right-radius: 79% !important}.bra-tr-80 {border-top-right-radius: 80% !important}
+
+.bra-tr-81 {border-top-right-radius: 81% !important}.bra-tr-82 {border-top-right-radius: 82% !important}.bra-tr-83 {border-top-right-radius: 83% !important}.bra-tr-84 {border-top-right-radius: 84% !important}.bra-tr-85 {border-top-right-radius: 85% !important}.bra-tr-86 {border-top-right-radius: 86% !important}.bra-tr-87 {border-top-right-radius: 87% !important}.bra-tr-88 {border-top-right-radius: 88% !important}.bra-tr-89 {border-top-right-radius: 89% !important}.bra-tr-90 {border-top-right-radius: 90% !important}
+
+.bra-tr-91 {border-top-right-radius: 91% !important}.bra-tr-92 {border-top-right-radius: 92% !important}.bra-tr-93 {border-top-right-radius: 93% !important}.bra-tr-94 {border-top-right-radius: 94% !important}.bra-tr-95 {border-top-right-radius: 95% !important}.bra-tr-96 {border-top-right-radius: 96% !important}.bra-tr-97 {border-top-right-radius: 97% !important}.bra-tr-98 {border-top-right-radius: 98% !important}.bra-tr-99 {border-top-right-radius: 99% !important}.bra-tr-100 {border-top-right-radius: 100% !important}
+
+.bra-br-1 {border-bottom-right-radius: 1% !important}.bra-br-2 {border-bottom-right-radius: 2% !important}.bra-br-3 {border-bottom-right-radius: 3% !important}.bra-br-4 {border-bottom-right-radius: 4% !important}.bra-br-5 {border-bottom-right-radius: 5% !important}.bra-br-6 {border-bottom-right-radius: 6% !important}.bra-br-7 {border-bottom-right-radius: 7% !important}.bra-br-8 {border-bottom-right-radius: 8% !important}.bra-br-9 {border-bottom-right-radius: 9% !important}.bra-br-10 {border-bottom-right-radius: 10% !important}
+
+.bra-br-11 {border-bottom-right-radius: 11% !important}.bra-br-12 {border-bottom-right-radius: 12% !important}.bra-br-13 {border-bottom-right-radius: 13% !important}.bra-br-14 {border-bottom-right-radius: 14% !important}.bra-br-15 {border-bottom-right-radius: 15% !important}.bra-br-16 {border-bottom-right-radius: 16% !important}.bra-br-17 {border-bottom-right-radius: 17% !important}.bra-br-18 {border-bottom-right-radius: 18% !important}.bra-br-19 {border-bottom-right-radius: 19% !important}.bra-br-20 {border-bottom-right-radius: 20% !important}
+
+.bra-br-21 {border-bottom-right-radius: 21% !important}.bra-br-22 {border-bottom-right-radius: 22% !important}.bra-br-23 {border-bottom-right-radius: 23% !important}.bra-br-24 {border-bottom-right-radius: 24% !important}.bra-br-25 {border-bottom-right-radius: 25% !important}.bra-br-26 {border-bottom-right-radius: 26% !important}.bra-br-27 {border-bottom-right-radius: 27% !important}.bra-br-28 {border-bottom-right-radius: 28% !important}.bra-br-29 {border-bottom-right-radius: 29% !important}.bra-br-30 {border-bottom-right-radius: 30% !important}
+
+.bra-br-31 {border-bottom-right-radius: 31% !important}.bra-br-32 {border-bottom-right-radius: 32% !important}.bra-br-33 {border-bottom-right-radius: 33% !important}.bra-br-34 {border-bottom-right-radius: 34% !important}.bra-br-35 {border-bottom-right-radius: 35% !important}.bra-br-36 {border-bottom-right-radius: 36% !important}.bra-br-37 {border-bottom-right-radius: 37% !important}.bra-br-38 {border-bottom-right-radius: 38% !important}.bra-br-39 {border-bottom-right-radius: 39% !important}.bra-br-40 {border-bottom-right-radius: 40% !important}
+
+.bra-br-41 {border-bottom-right-radius: 41% !important}.bra-br-42 {border-bottom-right-radius: 42% !important}.bra-br-43 {border-bottom-right-radius: 43% !important}.bra-br-44 {border-bottom-right-radius: 44% !important}.bra-br-45 {border-bottom-right-radius: 45% !important}.bra-br-46 {border-bottom-right-radius: 46% !important}.bra-br-47 {border-bottom-right-radius: 47% !important}.bra-br-48 {border-bottom-right-radius: 48% !important}.bra-br-49 {border-bottom-right-radius: 49% !important}.bra-br-50 {border-bottom-right-radius: 50% !important}
+
+.bra-br-51 {border-bottom-right-radius: 51% !important}.bra-br-52 {border-bottom-right-radius: 52% !important}.bra-br-53 {border-bottom-right-radius: 53% !important}.bra-br-54 {border-bottom-right-radius: 54% !important}.bra-br-55 {border-bottom-right-radius: 55% !important}.bra-br-56 {border-bottom-right-radius: 56% !important}.bra-br-57 {border-bottom-right-radius: 57% !important}.bra-br-58 {border-bottom-right-radius: 58% !important}.bra-br-59 {border-bottom-right-radius: 59% !important}.bra-br-60 {border-bottom-right-radius: 60% !important}
+
+.bra-br-61 {border-bottom-right-radius: 61% !important}.bra-br-62 {border-bottom-right-radius: 62% !important}.bra-br-63 {border-bottom-right-radius: 63% !important}.bra-br-64 {border-bottom-right-radius: 64% !important}.bra-br-65 {border-bottom-right-radius: 65% !important}.bra-br-66 {border-bottom-right-radius: 66% !important}.bra-br-67 {border-bottom-right-radius: 67% !important}.bra-br-68 {border-bottom-right-radius: 68% !important}.bra-br-69 {border-bottom-right-radius: 69% !important}.bra-br-70 {border-bottom-right-radius: 70% !important}
+
+.bra-br-71 {border-bottom-right-radius: 71% !important}.bra-br-72 {border-bottom-right-radius: 72% !important}.bra-br-73 {border-bottom-right-radius: 73% !important}.bra-br-74 {border-bottom-right-radius: 74% !important}.bra-br-75 {border-bottom-right-radius: 75% !important}.bra-br-76 {border-bottom-right-radius: 76% !important}.bra-br-77 {border-bottom-right-radius: 77% !important}.bra-br-78 {border-bottom-right-radius: 78% !important}.bra-br-79 {border-bottom-right-radius: 79% !important}.bra-br-80 {border-bottom-right-radius: 80% !important}
+
+.bra-br-81 {border-bottom-right-radius: 81% !important}.bra-br-82 {border-bottom-right-radius: 82% !important}.bra-br-83 {border-bottom-right-radius: 83% !important}.bra-br-84 {border-bottom-right-radius: 84% !important}.bra-br-85 {border-bottom-right-radius: 85% !important}.bra-br-86 {border-bottom-right-radius: 86% !important}.bra-br-87 {border-bottom-right-radius: 87% !important}.bra-br-88 {border-bottom-right-radius: 88% !important}.bra-br-89 {border-bottom-right-radius: 89% !important}.bra-br-90 {border-bottom-right-radius: 90% !important}
+
+.bra-br-91 {border-bottom-right-radius: 91% !important}.bra-br-92 {border-bottom-right-radius: 92% !important}.bra-br-93 {border-bottom-right-radius: 93% !important}.bra-br-94 {border-bottom-right-radius: 94% !important}.bra-br-95 {border-bottom-right-radius: 95% !important}.bra-br-96 {border-bottom-right-radius: 96% !important}.bra-br-97 {border-bottom-right-radius: 97% !important}.bra-br-98 {border-bottom-right-radius: 98% !important}.bra-br-99 {border-bottom-right-radius: 99% !important}.bra-br-100 {border-bottom-right-radius: 100% !important}
+
+.bra-bl-1 {border-bottom-left-radius: 1% !important}.bra-bl-2 {border-bottom-left-radius: 2% !important}.bra-bl-3 {border-bottom-left-radius: 3% !important}.bra-bl-4 {border-bottom-left-radius: 4% !important}.bra-bl-5 {border-bottom-left-radius: 5% !important}.bra-bl-6 {border-bottom-left-radius: 6% !important}.bra-bl-7 {border-bottom-left-radius: 7% !important}.bra-bl-8 {border-bottom-left-radius: 8% !important}.bra-bl-9 {border-bottom-left-radius: 9% !important}.bra-bl-10 {border-bottom-left-radius: 10% !important}
+
+.bra-bl-11 {border-bottom-left-radius: 11% !important}.bra-bl-12 {border-bottom-left-radius: 12% !important}.bra-bl-13 {border-bottom-left-radius: 13% !important}.bra-bl-14 {border-bottom-left-radius: 14% !important}.bra-bl-15 {border-bottom-left-radius: 15% !important}.bra-bl-16 {border-bottom-left-radius: 16% !important}.bra-bl-17 {border-bottom-left-radius: 17% !important}.bra-bl-18 {border-bottom-left-radius: 18% !important}.bra-bl-19 {border-bottom-left-radius: 19% !important}.bra-bl-20 {border-bottom-left-radius: 20% !important}
+
+.bra-bl-21 {border-bottom-left-radius: 21% !important}.bra-bl-22 {border-bottom-left-radius: 22% !important}.bra-bl-23 {border-bottom-left-radius: 23% !important}.bra-bl-24 {border-bottom-left-radius: 24% !important}.bra-bl-25 {border-bottom-left-radius: 25% !important}.bra-bl-26 {border-bottom-left-radius: 26% !important}.bra-bl-27 {border-bottom-left-radius: 27% !important}.bra-bl-28 {border-bottom-left-radius: 28% !important}.bra-bl-29 {border-bottom-left-radius: 29% !important}.bra-bl-30 {border-bottom-left-radius: 30% !important}
+
+.bra-bl-31 {border-bottom-left-radius: 31% !important}.bra-bl-32 {border-bottom-left-radius: 32% !important}.bra-bl-33 {border-bottom-left-radius: 33% !important}.bra-bl-34 {border-bottom-left-radius: 34% !important}.bra-bl-35 {border-bottom-left-radius: 35% !important}.bra-bl-36 {border-bottom-left-radius: 36% !important}.bra-bl-37 {border-bottom-left-radius: 37% !important}.bra-bl-38 {border-bottom-left-radius: 38% !important}.bra-bl-39 {border-bottom-left-radius: 39% !important}.bra-bl-40 {border-bottom-left-radius: 40% !important}
+
+.bra-bl-41 {border-bottom-left-radius: 41% !important}.bra-bl-42 {border-bottom-left-radius: 42% !important}.bra-bl-43 {border-bottom-left-radius: 43% !important}.bra-bl-44 {border-bottom-left-radius: 44% !important}.bra-bl-45 {border-bottom-left-radius: 45% !important}.bra-bl-46 {border-bottom-left-radius: 46% !important}.bra-bl-47 {border-bottom-left-radius: 47% !important}.bra-bl-48 {border-bottom-left-radius: 48% !important}.bra-bl-49 {border-bottom-left-radius: 49% !important}.bra-bl-50 {border-bottom-left-radius: 50% !important}
+
+.bra-bl-51 {border-bottom-left-radius: 51% !important}.bra-bl-52 {border-bottom-left-radius: 52% !important}.bra-bl-53 {border-bottom-left-radius: 53% !important}.bra-bl-54 {border-bottom-left-radius: 54% !important}.bra-bl-55 {border-bottom-left-radius: 55% !important}.bra-bl-56 {border-bottom-left-radius: 56% !important}.bra-bl-57 {border-bottom-left-radius: 57% !important}.bra-bl-58 {border-bottom-left-radius: 58% !important}.bra-bl-59 {border-bottom-left-radius: 59% !important}.bra-bl-60 {border-bottom-left-radius: 60% !important}
+
+.bra-bl-61 {border-bottom-left-radius: 61% !important}.bra-bl-62 {border-bottom-left-radius: 62% !important}.bra-bl-63 {border-bottom-left-radius: 63% !important}.bra-bl-64 {border-bottom-left-radius: 64% !important}.bra-bl-65 {border-bottom-left-radius: 65% !important}.bra-bl-66 {border-bottom-left-radius: 66% !important}.bra-bl-67 {border-bottom-left-radius: 67% !important}.bra-bl-68 {border-bottom-left-radius: 68% !important}.bra-bl-69 {border-bottom-left-radius: 69% !important}.bra-bl-70 {border-bottom-left-radius: 70% !important}
+
+.bra-bl-71 {border-bottom-left-radius: 71% !important}.bra-bl-72 {border-bottom-left-radius: 72% !important}.bra-bl-73 {border-bottom-left-radius: 73% !important}.bra-bl-74 {border-bottom-left-radius: 74% !important}.bra-bl-75 {border-bottom-left-radius: 75% !important}.bra-bl-76 {border-bottom-left-radius: 76% !important}.bra-bl-77 {border-bottom-left-radius: 77% !important}.bra-bl-78 {border-bottom-left-radius: 78% !important}.bra-bl-79 {border-bottom-left-radius: 79% !important}.bra-bl-80 {border-bottom-left-radius: 80% !important}
+
+.bra-bl-81 {border-bottom-left-radius: 81% !important}.bra-bl-82 {border-bottom-left-radius: 82% !important}.bra-bl-83 {border-bottom-left-radius: 83% !important}.bra-bl-84 {border-bottom-left-radius: 84% !important}.bra-bl-85 {border-bottom-left-radius: 85% !important}.bra-bl-86 {border-bottom-left-radius: 86% !important}.bra-bl-87 {border-bottom-left-radius: 87% !important}.bra-bl-88 {border-bottom-left-radius: 88% !important}.bra-bl-89 {border-bottom-left-radius: 89% !important}.bra-bl-90 {border-bottom-left-radius: 90% !important}
+
+.bra-bl-91 {border-bottom-left-radius: 91% !important}.bra-bl-92 {border-bottom-left-radius: 92% !important}.bra-bl-93 {border-bottom-left-radius: 93% !important}.bra-bl-94 {border-bottom-left-radius: 94% !important}.bra-bl-95 {border-bottom-left-radius: 95% !important}.bra-bl-96 {border-bottom-left-radius: 96% !important}.bra-bl-97 {border-bottom-left-radius: 97% !important}.bra-bl-98 {border-bottom-left-radius: 98% !important}.bra-bl-99 {border-bottom-left-radius: 99% !important}.bra-bl-100 {border-bottom-left-radius: 100% !important}
+
+
+.bra-px-1 {border-radius: 1px !important}.bra-px-2 {border-radius: 2px !important}.bra-px-3 {border-radius: 3px !important}.bra-px-4 {border-radius: 4px !important}.bra-px-5 {border-radius: 5px !important}.bra-px-6 {border-radius: 6px !important}.bra-px-7 {border-radius: 7px !important}.bra-px-8 {border-radius: 8px !important}.bra-px-9 {border-radius: 9px !important}.bra-px-10 {border-radius: 10px !important}
+
+.bra-px-11 {border-radius: 11px !important}.bra-px-12 {border-radius: 12px !important}.bra-px-13 {border-radius: 13px !important}.bra-px-14 {border-radius: 14px !important}.bra-px-15 {border-radius: 15px !important}.bra-px-16 {border-radius: 16px !important}.bra-px-17 {border-radius: 17px !important}.bra-px-18 {border-radius: 18px !important}.bra-px-19 {border-radius: 19px !important}.bra-px-20 {border-radius: 20px !important}
+
+.bra-px-21 {border-radius: 21px !important}.bra-px-22 {border-radius: 22px !important}.bra-px-23 {border-radius: 23px !important}.bra-px-24 {border-radius: 24px !important}.bra-px-25 {border-radius: 25px !important}.bra-px-26 {border-radius: 26px !important}.bra-px-27 {border-radius: 27px !important}.bra-px-28 {border-radius: 28px !important}.bra-px-29 {border-radius: 29px !important}.bra-px-30 {border-radius: 30px !important}
+
+.bra-px-31 {border-radius: 31px !important}.bra-px-32 {border-radius: 32px !important}.bra-px-33 {border-radius: 33px !important}.bra-px-34 {border-radius: 34px !important}.bra-px-35 {border-radius: 35px !important}.bra-px-36 {border-radius: 36px !important}.bra-px-37 {border-radius: 37px !important}.bra-px-38 {border-radius: 38px !important}.bra-px-39 {border-radius: 39px !important}.bra-px-40 {border-radius: 40px !important}
+
+.bra-px-41 {border-radius: 41px !important}.bra-px-42 {border-radius: 42px !important}.bra-px-43 {border-radius: 43px !important}.bra-px-44 {border-radius: 44px !important}.bra-px-45 {border-radius: 45px !important}.bra-px-46 {border-radius: 46px !important}.bra-px-47 {border-radius: 47px !important}.bra-px-48 {border-radius: 48px !important}.bra-px-49 {border-radius: 49px !important}.bra-px-50 {border-radius: 50px !important}
+
+.bra-px-51 {border-radius: 51px !important}.bra-px-52 {border-radius: 52px !important}.bra-px-53 {border-radius: 53px !important}.bra-px-54 {border-radius: 54px !important}.bra-px-55 {border-radius: 55px !important}.bra-px-56 {border-radius: 56px !important}.bra-px-57 {border-radius: 57px !important}.bra-px-58 {border-radius: 58px !important}.bra-px-59 {border-radius: 59px !important}.bra-px-60 {border-radius: 60px !important}
+
+.bra-px-61 {border-radius: 61px !important}.bra-px-62 {border-radius: 62px !important}.bra-px-63 {border-radius: 63px !important}.bra-px-64 {border-radius: 64px !important}.bra-px-65 {border-radius: 65px !important}.bra-px-66 {border-radius: 66px !important}.bra-px-67 {border-radius: 67px !important}.bra-px-68 {border-radius: 68px !important}.bra-px-69 {border-radius: 69px !important}.bra-px-70 {border-radius: 70px !important}
+
+.bra-px-71 {border-radius: 71px !important}.bra-px-72 {border-radius: 72px !important}.bra-px-73 {border-radius: 73px !important}.bra-px-74 {border-radius: 74px !important}.bra-px-75 {border-radius: 75px !important}.bra-px-76 {border-radius: 76px !important}.bra-px-77 {border-radius: 77px !important}.bra-px-78 {border-radius: 78px !important}.bra-px-79 {border-radius: 79px !important}.bra-px-80 {border-radius: 80px !important}
+
+.bra-px-81 {border-radius: 81px !important}.bra-px-82 {border-radius: 82px !important}.bra-px-83 {border-radius: 83px !important}.bra-px-84 {border-radius: 84px !important}.bra-px-85 {border-radius: 85px !important}.bra-px-86 {border-radius: 86px !important}.bra-px-87 {border-radius: 87px !important}.bra-px-88 {border-radius: 88px !important}.bra-px-89 {border-radius: 89px !important}.bra-px-90 {border-radius: 90px !important}
+
+.bra-px-91 {border-radius: 91px !important}.bra-px-92 {border-radius: 92px !important}.bra-px-93 {border-radius: 93px !important}.bra-px-94 {border-radius: 94px !important}.bra-px-95 {border-radius: 95px !important}.bra-px-96 {border-radius: 96px !important}.bra-px-97 {border-radius: 97px !important}.bra-px-98 {border-radius: 98px !important}.bra-px-99 {border-radius: 99px !important}.bra-px-100 {border-radius: 100px !important}
+
+.bra-px-tl-1 {border-top-left-radius: 1px !important}.bra-px-tl-2 {border-top-left-radius: 2px !important}.bra-px-tl-3 {border-top-left-radius: 3px !important}.bra-px-tl-4 {border-top-left-radius: 4px !important}.bra-px-tl-5 {border-top-left-radius: 5px !important}.bra-px-tl-6 {border-top-left-radius: 6px !important}.bra-px-tl-7 {border-top-left-radius: 7px !important}.bra-px-tl-8 {border-top-left-radius: 8px !important}.bra-px-tl-9 {border-top-left-radius: 9px !important}.bra-px-tl-10 {border-top-left-radius: 10px !important}
+
+.bra-px-tl-11 {border-top-left-radius: 11px !important}.bra-px-tl-12 {border-top-left-radius: 12px !important}.bra-px-tl-13 {border-top-left-radius: 13px !important}.bra-px-tl-14 {border-top-left-radius: 14px !important}.bra-px-tl-15 {border-top-left-radius: 15px !important}.bra-px-tl-16 {border-top-left-radius: 16px !important}.bra-px-tl-17 {border-top-left-radius: 17px !important}.bra-px-tl-18 {border-top-left-radius: 18px !important}.bra-px-tl-19 {border-top-left-radius: 19px !important}.bra-px-tl-20 {border-top-left-radius: 20px !important}
+
+.bra-px-tl-21 {border-top-left-radius: 21px !important}.bra-px-tl-22 {border-top-left-radius: 22px !important}.bra-px-tl-23 {border-top-left-radius: 23px !important}.bra-px-tl-24 {border-top-left-radius: 24px !important}.bra-px-tl-25 {border-top-left-radius: 25px !important}.bra-px-tl-26 {border-top-left-radius: 26px !important}.bra-px-tl-27 {border-top-left-radius: 27px !important}.bra-px-tl-28 {border-top-left-radius: 28px !important}.bra-px-tl-29 {border-top-left-radius: 29px !important}.bra-px-tl-30 {border-top-left-radius: 30px !important}
+
+.bra-px-tl-31 {border-top-left-radius: 31px !important}.bra-px-tl-32 {border-top-left-radius: 32px !important}.bra-px-tl-33 {border-top-left-radius: 33px !important}.bra-px-tl-34 {border-top-left-radius: 34px !important}.bra-px-tl-35 {border-top-left-radius: 35px !important}.bra-px-tl-36 {border-top-left-radius: 36px !important}.bra-px-tl-37 {border-top-left-radius: 37px !important}.bra-px-tl-38 {border-top-left-radius: 38px !important}.bra-px-tl-39 {border-top-left-radius: 39px !important}.bra-px-tl-40 {border-top-left-radius: 40px !important}
+
+.bra-px-tl-41 {border-top-left-radius: 41px !important}.bra-px-tl-42 {border-top-left-radius: 42px !important}.bra-px-tl-43 {border-top-left-radius: 43px !important}.bra-px-tl-44 {border-top-left-radius: 44px !important}.bra-px-tl-45 {border-top-left-radius: 45px !important}.bra-px-tl-46 {border-top-left-radius: 46px !important}.bra-px-tl-47 {border-top-left-radius: 47px !important}.bra-px-tl-48 {border-top-left-radius: 48px !important}.bra-px-tl-49 {border-top-left-radius: 49px !important}.bra-px-tl-50 {border-top-left-radius: 50px !important}
+
+.bra-px-tl-51 {border-top-left-radius: 51px !important}.bra-px-tl-52 {border-top-left-radius: 52px !important}.bra-px-tl-53 {border-top-left-radius: 53px !important}.bra-px-tl-54 {border-top-left-radius: 54px !important}.bra-px-tl-55 {border-top-left-radius: 55px !important}.bra-px-tl-56 {border-top-left-radius: 56px !important}.bra-px-tl-57 {border-top-left-radius: 57px !important}.bra-px-tl-58 {border-top-left-radius: 58px !important}.bra-px-tl-59 {border-top-left-radius: 59px !important}.bra-px-tl-60 {border-top-left-radius: 60px !important}
+
+.bra-px-tl-61 {border-top-left-radius: 61px !important}.bra-px-tl-62 {border-top-left-radius: 62px !important}.bra-px-tl-63 {border-top-left-radius: 63px !important}.bra-px-tl-64 {border-top-left-radius: 64px !important}.bra-px-tl-65 {border-top-left-radius: 65px !important}.bra-px-tl-66 {border-top-left-radius: 66px !important}.bra-px-tl-67 {border-top-left-radius: 67px !important}.bra-px-tl-68 {border-top-left-radius: 68px !important}.bra-px-tl-69 {border-top-left-radius: 69px !important}.bra-px-tl-70 {border-top-left-radius: 70px !important}
+
+.bra-px-tl-71 {border-top-left-radius: 71px !important}.bra-px-tl-72 {border-top-left-radius: 72px !important}.bra-px-tl-73 {border-top-left-radius: 73px !important}.bra-px-tl-74 {border-top-left-radius: 74px !important}.bra-px-tl-75 {border-top-left-radius: 75px !important}.bra-px-tl-76 {border-top-left-radius: 76px !important}.bra-px-tl-77 {border-top-left-radius: 77px !important}.bra-px-tl-78 {border-top-left-radius: 78px !important}.bra-px-tl-79 {border-top-left-radius: 79px !important}.bra-px-tl-80 {border-top-left-radius: 80px !important}
+
+.bra-px-tl-81 {border-top-left-radius: 81px !important}.bra-px-tl-82 {border-top-left-radius: 82px !important}.bra-px-tl-83 {border-top-left-radius: 83px !important}.bra-px-tl-84 {border-top-left-radius: 84px !important}.bra-px-tl-85 {border-top-left-radius: 85px !important}.bra-px-tl-86 {border-top-left-radius: 86px !important}.bra-px-tl-87 {border-top-left-radius: 87px !important}.bra-px-tl-88 {border-top-left-radius: 88px !important}.bra-px-tl-89 {border-top-left-radius: 89px !important}.bra-px-tl-90 {border-top-left-radius: 90px !important}
+
+.bra-px-tl-91 {border-top-left-radius: 91px !important}.bra-px-tl-92 {border-top-left-radius: 92px !important}.bra-px-tl-93 {border-top-left-radius: 93px !important}.bra-px-tl-94 {border-top-left-radius: 94px !important}.bra-px-tl-95 {border-top-left-radius: 95px !important}.bra-px-tl-96 {border-top-left-radius: 96px !important}.bra-px-tl-97 {border-top-left-radius: 97px !important}.bra-px-tl-98 {border-top-left-radius: 98px !important}.bra-px-tl-99 {border-top-left-radius: 99px !important}.bra-px-tl-100 {border-top-left-radius: 100px !important}
+
+.bra-px-tr-1 {border-top-right-radius: 1px !important}.bra-px-tr-2 {border-top-right-radius: 2px !important}.bra-px-tr-3 {border-top-right-radius: 3px !important}.bra-px-tr-4 {border-top-right-radius: 4px !important}.bra-px-tr-5 {border-top-right-radius: 5px !important}.bra-px-tr-6 {border-top-right-radius: 6px !important}.bra-px-tr-7 {border-top-right-radius: 7px !important}.bra-px-tr-8 {border-top-right-radius: 8px !important}.bra-px-tr-9 {border-top-right-radius: 9px !important}.bra-px-tr-10 {border-top-right-radius: 10px !important}
+
+.bra-px-tr-11 {border-top-right-radius: 11px !important}.bra-px-tr-12 {border-top-right-radius: 12px !important}.bra-px-tr-13 {border-top-right-radius: 13px !important}.bra-px-tr-14 {border-top-right-radius: 14px !important}.bra-px-tr-15 {border-top-right-radius: 15px !important}.bra-px-tr-16 {border-top-right-radius: 16px !important}.bra-px-tr-17 {border-top-right-radius: 17px !important}.bra-px-tr-18 {border-top-right-radius: 18px !important}.bra-px-tr-19 {border-top-right-radius: 19px !important}.bra-px-tr-20 {border-top-right-radius: 20px !important}
+
+.bra-px-tr-21 {border-top-right-radius: 21px !important}.bra-px-tr-22 {border-top-right-radius: 22px !important}.bra-px-tr-23 {border-top-right-radius: 23px !important}.bra-px-tr-24 {border-top-right-radius: 24px !important}.bra-px-tr-25 {border-top-right-radius: 25px !important}.bra-px-tr-26 {border-top-right-radius: 26px !important}.bra-px-tr-27 {border-top-right-radius: 27px !important}.bra-px-tr-28 {border-top-right-radius: 28px !important}.bra-px-tr-29 {border-top-right-radius: 29px !important}.bra-px-tr-30 {border-top-right-radius: 30px !important}
+
+.bra-px-tr-31 {border-top-right-radius: 31px !important}.bra-px-tr-32 {border-top-right-radius: 32px !important}.bra-px-tr-33 {border-top-right-radius: 33px !important}.bra-px-tr-34 {border-top-right-radius: 34px !important}.bra-px-tr-35 {border-top-right-radius: 35px !important}.bra-px-tr-36 {border-top-right-radius: 36px !important}.bra-px-tr-37 {border-top-right-radius: 37px !important}.bra-px-tr-38 {border-top-right-radius: 38px !important}.bra-px-tr-39 {border-top-right-radius: 39px !important}.bra-px-tr-40 {border-top-right-radius: 40px !important}
+
+.bra-px-tr-41 {border-top-right-radius: 41px !important}.bra-px-tr-42 {border-top-right-radius: 42px !important}.bra-px-tr-43 {border-top-right-radius: 43px !important}.bra-px-tr-44 {border-top-right-radius: 44px !important}.bra-px-tr-45 {border-top-right-radius: 45px !important}.bra-px-tr-46 {border-top-right-radius: 46px !important}.bra-px-tr-47 {border-top-right-radius: 47px !important}.bra-px-tr-48 {border-top-right-radius: 48px !important}.bra-px-tr-49 {border-top-right-radius: 49px !important}.bra-px-tr-50 {border-top-right-radius: 50px !important}
+
+.bra-px-tr-51 {border-top-right-radius: 51px !important}.bra-px-tr-52 {border-top-right-radius: 52px !important}.bra-px-tr-53 {border-top-right-radius: 53px !important}.bra-px-tr-54 {border-top-right-radius: 54px !important}.bra-px-tr-55 {border-top-right-radius: 55px !important}.bra-px-tr-56 {border-top-right-radius: 56px !important}.bra-px-tr-57 {border-top-right-radius: 57px !important}.bra-px-tr-58 {border-top-right-radius: 58px !important}.bra-px-tr-59 {border-top-right-radius: 59px !important}.bra-px-tr-60 {border-top-right-radius: 60px !important}
+
+.bra-px-tr-61 {border-top-right-radius: 61px !important}.bra-px-tr-62 {border-top-right-radius: 62px !important}.bra-px-tr-63 {border-top-right-radius: 63px !important}.bra-px-tr-64 {border-top-right-radius: 64px !important}.bra-px-tr-65 {border-top-right-radius: 65px !important}.bra-px-tr-66 {border-top-right-radius: 66px !important}.bra-px-tr-67 {border-top-right-radius: 67px !important}.bra-px-tr-68 {border-top-right-radius: 68px !important}.bra-px-tr-69 {border-top-right-radius: 69px !important}.bra-px-tr-70 {border-top-right-radius: 70px !important}
+
+.bra-px-tr-71 {border-top-right-radius: 71px !important}.bra-px-tr-72 {border-top-right-radius: 72px !important}.bra-px-tr-73 {border-top-right-radius: 73px !important}.bra-px-tr-74 {border-top-right-radius: 74px !important}.bra-px-tr-75 {border-top-right-radius: 75px !important}.bra-px-tr-76 {border-top-right-radius: 76px !important}.bra-px-tr-77 {border-top-right-radius: 77px !important}.bra-px-tr-78 {border-top-right-radius: 78px !important}.bra-px-tr-79 {border-top-right-radius: 79px !important}.bra-px-tr-80 {border-top-right-radius: 80px !important}
+
+.bra-px-tr-81 {border-top-right-radius: 81px !important}.bra-px-tr-82 {border-top-right-radius: 82px !important}.bra-px-tr-83 {border-top-right-radius: 83px !important}.bra-px-tr-84 {border-top-right-radius: 84px !important}.bra-px-tr-85 {border-top-right-radius: 85px !important}.bra-px-tr-86 {border-top-right-radius: 86px !important}.bra-px-tr-87 {border-top-right-radius: 87px !important}.bra-px-tr-88 {border-top-right-radius: 88px !important}.bra-px-tr-89 {border-top-right-radius: 89px !important}.bra-px-tr-90 {border-top-right-radius: 90px !important}
+
+.bra-px-tr-91 {border-top-right-radius: 91px !important}.bra-px-tr-92 {border-top-right-radius: 92px !important}.bra-px-tr-93 {border-top-right-radius: 93px !important}.bra-px-tr-94 {border-top-right-radius: 94px !important}.bra-px-tr-95 {border-top-right-radius: 95px !important}.bra-px-tr-96 {border-top-right-radius: 96px !important}.bra-px-tr-97 {border-top-right-radius: 97px !important}.bra-px-tr-98 {border-top-right-radius: 98px !important}.bra-px-tr-99 {border-top-right-radius: 99px !important}.bra-px-tr-100 {border-top-right-radius: 100px !important}
+
+.bra-px-br-1 {border-bottom-right-radius: 1px !important}.bra-px-br-2 {border-bottom-right-radius: 2px !important}.bra-px-br-3 {border-bottom-right-radius: 3px !important}.bra-px-br-4 {border-bottom-right-radius: 4px !important}.bra-px-br-5 {border-bottom-right-radius: 5px !important}.bra-px-br-6 {border-bottom-right-radius: 6px !important}.bra-px-br-7 {border-bottom-right-radius: 7px !important}.bra-px-br-8 {border-bottom-right-radius: 8px !important}.bra-px-br-9 {border-bottom-right-radius: 9px !important}.bra-px-br-10 {border-bottom-right-radius: 10px !important}
+
+.bra-px-br-11 {border-bottom-right-radius: 11px !important}.bra-px-br-12 {border-bottom-right-radius: 12px !important}.bra-px-br-13 {border-bottom-right-radius: 13px !important}.bra-px-br-14 {border-bottom-right-radius: 14px !important}.bra-px-br-15 {border-bottom-right-radius: 15px !important}.bra-px-br-16 {border-bottom-right-radius: 16px !important}.bra-px-br-17 {border-bottom-right-radius: 17px !important}.bra-px-br-18 {border-bottom-right-radius: 18px !important}.bra-px-br-19 {border-bottom-right-radius: 19px !important}.bra-px-br-20 {border-bottom-right-radius: 20px !important}
+
+.bra-px-br-21 {border-bottom-right-radius: 21px !important}.bra-px-br-22 {border-bottom-right-radius: 22px !important}.bra-px-br-23 {border-bottom-right-radius: 23px !important}.bra-px-br-24 {border-bottom-right-radius: 24px !important}.bra-px-br-25 {border-bottom-right-radius: 25px !important}.bra-px-br-26 {border-bottom-right-radius: 26px !important}.bra-px-br-27 {border-bottom-right-radius: 27px !important}.bra-px-br-28 {border-bottom-right-radius: 28px !important}.bra-px-br-29 {border-bottom-right-radius: 29px !important}.bra-px-br-30 {border-bottom-right-radius: 30px !important}
+
+.bra-px-br-31 {border-bottom-right-radius: 31px !important}.bra-px-br-32 {border-bottom-right-radius: 32px !important}.bra-px-br-33 {border-bottom-right-radius: 33px !important}.bra-px-br-34 {border-bottom-right-radius: 34px !important}.bra-px-br-35 {border-bottom-right-radius: 35px !important}.bra-px-br-36 {border-bottom-right-radius: 36px !important}.bra-px-br-37 {border-bottom-right-radius: 37px !important}.bra-px-br-38 {border-bottom-right-radius: 38px !important}.bra-px-br-39 {border-bottom-right-radius: 39px !important}.bra-px-br-40 {border-bottom-right-radius: 40px !important}
+
+.bra-px-br-41 {border-bottom-right-radius: 41px !important}.bra-px-br-42 {border-bottom-right-radius: 42px !important}.bra-px-br-43 {border-bottom-right-radius: 43px !important}.bra-px-br-44 {border-bottom-right-radius: 44px !important}.bra-px-br-45 {border-bottom-right-radius: 45px !important}.bra-px-br-46 {border-bottom-right-radius: 46px !important}.bra-px-br-47 {border-bottom-right-radius: 47px !important}.bra-px-br-48 {border-bottom-right-radius: 48px !important}.bra-px-br-49 {border-bottom-right-radius: 49px !important}.bra-px-br-50 {border-bottom-right-radius: 50px !important}
+
+.bra-px-br-51 {border-bottom-right-radius: 51px !important}.bra-px-br-52 {border-bottom-right-radius: 52px !important}.bra-px-br-53 {border-bottom-right-radius: 53px !important}.bra-px-br-54 {border-bottom-right-radius: 54px !important}.bra-px-br-55 {border-bottom-right-radius: 55px !important}.bra-px-br-56 {border-bottom-right-radius: 56px !important}.bra-px-br-57 {border-bottom-right-radius: 57px !important}.bra-px-br-58 {border-bottom-right-radius: 58px !important}.bra-px-br-59 {border-bottom-right-radius: 59px !important}.bra-px-br-60 {border-bottom-right-radius: 60px !important}
+
+.bra-px-br-61 {border-bottom-right-radius: 61px !important}.bra-px-br-62 {border-bottom-right-radius: 62px !important}.bra-px-br-63 {border-bottom-right-radius: 63px !important}.bra-px-br-64 {border-bottom-right-radius: 64px !important}.bra-px-br-65 {border-bottom-right-radius: 65px !important}.bra-px-br-66 {border-bottom-right-radius: 66px !important}.bra-px-br-67 {border-bottom-right-radius: 67px !important}.bra-px-br-68 {border-bottom-right-radius: 68px !important}.bra-px-br-69 {border-bottom-right-radius: 69px !important}.bra-px-br-70 {border-bottom-right-radius: 70px !important}
+
+.bra-px-br-71 {border-bottom-right-radius: 71px !important}.bra-px-br-72 {border-bottom-right-radius: 72px !important}.bra-px-br-73 {border-bottom-right-radius: 73px !important}.bra-px-br-74 {border-bottom-right-radius: 74px !important}.bra-px-br-75 {border-bottom-right-radius: 75px !important}.bra-px-br-76 {border-bottom-right-radius: 76px !important}.bra-px-br-77 {border-bottom-right-radius: 77px !important}.bra-px-br-78 {border-bottom-right-radius: 78px !important}.bra-px-br-79 {border-bottom-right-radius: 79px !important}.bra-px-br-80 {border-bottom-right-radius: 80px !important}
+
+.bra-px-br-81 {border-bottom-right-radius: 81px !important}.bra-px-br-82 {border-bottom-right-radius: 82px !important}.bra-px-br-83 {border-bottom-right-radius: 83px !important}.bra-px-br-84 {border-bottom-right-radius: 84px !important}.bra-px-br-85 {border-bottom-right-radius: 85px !important}.bra-px-br-86 {border-bottom-right-radius: 86px !important}.bra-px-br-87 {border-bottom-right-radius: 87px !important}.bra-px-br-88 {border-bottom-right-radius: 88px !important}.bra-px-br-89 {border-bottom-right-radius: 89px !important}.bra-px-br-90 {border-bottom-right-radius: 90px !important}
+
+.bra-px-br-91 {border-bottom-right-radius: 91px !important}.bra-px-br-92 {border-bottom-right-radius: 92px !important}.bra-px-br-93 {border-bottom-right-radius: 93px !important}.bra-px-br-94 {border-bottom-right-radius: 94px !important}.bra-px-br-95 {border-bottom-right-radius: 95px !important}.bra-px-br-96 {border-bottom-right-radius: 96px !important}.bra-px-br-97 {border-bottom-right-radius: 97px !important}.bra-px-br-98 {border-bottom-right-radius: 98px !important}.bra-px-br-99 {border-bottom-right-radius: 99px !important}.bra-px-br-100 {border-bottom-right-radius: 100px !important}
+
+.bra-px-bl-1 {border-bottom-left-radius: 1px !important}.bra-px-bl-2 {border-bottom-left-radius: 2px !important}.bra-px-bl-3 {border-bottom-left-radius: 3px !important}.bra-px-bl-4 {border-bottom-left-radius: 4px !important}.bra-px-bl-5 {border-bottom-left-radius: 5px !important}.bra-px-bl-6 {border-bottom-left-radius: 6px !important}.bra-px-bl-7 {border-bottom-left-radius: 7px !important}.bra-px-bl-8 {border-bottom-left-radius: 8px !important}.bra-px-bl-9 {border-bottom-left-radius: 9px !important}.bra-px-bl-10 {border-bottom-left-radius: 10px !important}
+
+.bra-px-bl-11 {border-bottom-left-radius: 11px !important}.bra-px-bl-12 {border-bottom-left-radius: 12px !important}.bra-px-bl-13 {border-bottom-left-radius: 13px !important}.bra-px-bl-14 {border-bottom-left-radius: 14px !important}.bra-px-bl-15 {border-bottom-left-radius: 15px !important}.bra-px-bl-16 {border-bottom-left-radius: 16px !important}.bra-px-bl-17 {border-bottom-left-radius: 17px !important}.bra-px-bl-18 {border-bottom-left-radius: 18px !important}.bra-px-bl-19 {border-bottom-left-radius: 19px !important}.bra-px-bl-20 {border-bottom-left-radius: 20px !important}
+
+.bra-px-bl-21 {border-bottom-left-radius: 21px !important}.bra-px-bl-22 {border-bottom-left-radius: 22px !important}.bra-px-bl-23 {border-bottom-left-radius: 23px !important}.bra-px-bl-24 {border-bottom-left-radius: 24px !important}.bra-px-bl-25 {border-bottom-left-radius: 25px !important}.bra-px-bl-26 {border-bottom-left-radius: 26px !important}.bra-px-bl-27 {border-bottom-left-radius: 27px !important}.bra-px-bl-28 {border-bottom-left-radius: 28px !important}.bra-px-bl-29 {border-bottom-left-radius: 29px !important}.bra-px-bl-30 {border-bottom-left-radius: 30px !important}
+
+.bra-px-bl-31 {border-bottom-left-radius: 31px !important}.bra-px-bl-32 {border-bottom-left-radius: 32px !important}.bra-px-bl-33 {border-bottom-left-radius: 33px !important}.bra-px-bl-34 {border-bottom-left-radius: 34px !important}.bra-px-bl-35 {border-bottom-left-radius: 35px !important}.bra-px-bl-36 {border-bottom-left-radius: 36px !important}.bra-px-bl-37 {border-bottom-left-radius: 37px !important}.bra-px-bl-38 {border-bottom-left-radius: 38px !important}.bra-px-bl-39 {border-bottom-left-radius: 39px !important}.bra-px-bl-40 {border-bottom-left-radius: 40px !important}
+
+.bra-px-bl-41 {border-bottom-left-radius: 41px !important}.bra-px-bl-42 {border-bottom-left-radius: 42px !important}.bra-px-bl-43 {border-bottom-left-radius: 43px !important}.bra-px-bl-44 {border-bottom-left-radius: 44px !important}.bra-px-bl-45 {border-bottom-left-radius: 45px !important}.bra-px-bl-46 {border-bottom-left-radius: 46px !important}.bra-px-bl-47 {border-bottom-left-radius: 47px !important}.bra-px-bl-48 {border-bottom-left-radius: 48px !important}.bra-px-bl-49 {border-bottom-left-radius: 49px !important}.bra-px-bl-50 {border-bottom-left-radius: 50px !important}
+
+.bra-px-bl-51 {border-bottom-left-radius: 51px !important}.bra-px-bl-52 {border-bottom-left-radius: 52px !important}.bra-px-bl-53 {border-bottom-left-radius: 53px !important}.bra-px-bl-54 {border-bottom-left-radius: 54px !important}.bra-px-bl-55 {border-bottom-left-radius: 55px !important}.bra-px-bl-56 {border-bottom-left-radius: 56px !important}.bra-px-bl-57 {border-bottom-left-radius: 57px !important}.bra-px-bl-58 {border-bottom-left-radius: 58px !important}.bra-px-bl-59 {border-bottom-left-radius: 59px !important}.bra-px-bl-60 {border-bottom-left-radius: 60px !important}
+
+.bra-px-bl-61 {border-bottom-left-radius: 61px !important}.bra-px-bl-62 {border-bottom-left-radius: 62px !important}.bra-px-bl-63 {border-bottom-left-radius: 63px !important}.bra-px-bl-64 {border-bottom-left-radius: 64px !important}.bra-px-bl-65 {border-bottom-left-radius: 65px !important}.bra-px-bl-66 {border-bottom-left-radius: 66px !important}.bra-px-bl-67 {border-bottom-left-radius: 67px !important}.bra-px-bl-68 {border-bottom-left-radius: 68px !important}.bra-px-bl-69 {border-bottom-left-radius: 69px !important}.bra-px-bl-70 {border-bottom-left-radius: 70px !important}
+
+.bra-px-bl-71 {border-bottom-left-radius: 71px !important}.bra-px-bl-72 {border-bottom-left-radius: 72px !important}.bra-px-bl-73 {border-bottom-left-radius: 73px !important}.bra-px-bl-74 {border-bottom-left-radius: 74px !important}.bra-px-bl-75 {border-bottom-left-radius: 75px !important}.bra-px-bl-76 {border-bottom-left-radius: 76px !important}.bra-px-bl-77 {border-bottom-left-radius: 77px !important}.bra-px-bl-78 {border-bottom-left-radius: 78px !important}.bra-px-bl-79 {border-bottom-left-radius: 79px !important}.bra-px-bl-80 {border-bottom-left-radius: 80px !important}
+
+.bra-px-bl-81 {border-bottom-left-radius: 81px !important}.bra-px-bl-82 {border-bottom-left-radius: 82px !important}.bra-px-bl-83 {border-bottom-left-radius: 83px !important}.bra-px-bl-84 {border-bottom-left-radius: 84px !important}.bra-px-bl-85 {border-bottom-left-radius: 85px !important}.bra-px-bl-86 {border-bottom-left-radius: 86px !important}.bra-px-bl-87 {border-bottom-left-radius: 87px !important}.bra-px-bl-88 {border-bottom-left-radius: 88px !important}.bra-px-bl-89 {border-bottom-left-radius: 89px !important}.bra-px-bl-90 {border-bottom-left-radius: 90px !important}
+
+.bra-px-bl-91 {border-bottom-left-radius: 91px !important}.bra-px-bl-92 {border-bottom-left-radius: 92px !important}.bra-px-bl-93 {border-bottom-left-radius: 93px !important}.bra-px-bl-94 {border-bottom-left-radius: 94px !important}.bra-px-bl-95 {border-bottom-left-radius: 95px !important}.bra-px-bl-96 {border-bottom-left-radius: 96px !important}.bra-px-bl-97 {border-bottom-left-radius: 97px !important}.bra-px-bl-98 {border-bottom-left-radius: 98px !important}.bra-px-bl-99 {border-bottom-left-radius: 99px !important}.bra-px-bl-100 {border-bottom-left-radius: 100px !important}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

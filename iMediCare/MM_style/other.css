@@ -1,0 +1,138 @@
+.center {
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+}
+
+.centerUpDown {
+	display: -webkit-box;
+    display: -ms-flexbox;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+}
+
+/*overflow*/
+.overflow-auto { overflow: auto !important; }
+.overflow-hidden { overflow: hidden !important; }
+.overflow-hidden { overflow: inherit !important; }
+.overflow-hidden { overflow: scroll !important; }
+.overflow-hidden { overflow: visible !important; }
+.overflow-x-auto { overflow-x: auto !important; }
+.overflow-x-hidden { overflow-x: hidden !important; }
+.overflow-x-hidden { overflow-x: inherit !important; }
+.overflow-x-hidden { overflow-x: scroll !important; }
+.overflow-x-hidden { overflow-x: visible !important; }
+.overflow-y-auto { overflow-y: auto !important; }
+.overflow-y-hidden { overflow-y: hidden !important; }
+.overflow-y-hidden { overflow-y: inherit !important; }
+.overflow-y-hidden { overflow-y: scroll !important; }
+.overflow-y-hidden { overflow-y: visible !important; }
+
+
+/*display*/
+.display-block { display: block !important; }
+.display-flex { display: flex !important; }
+.display-none { display: none !important; }
+.display-contents { display: contents !important; }
+.display-flowroot { display: flow-root !important; }
+.display-grid { display: grid !important; }
+.display-inherit { display: inherit !important; }
+.display-inline { display: inline !important; }
+.display-inlineblock { display: inline-block !important; }
+.display-inlineflex { display: inline-flex !important; }
+.display-inlinegrid { display: inline-grid !important; }
+.display-inlinetable { display: inline-table !important; }
+.display-listitem { display: list-item !important; }
+.display-runin { display: run-in !important; }
+.display-subgrid { display: subgrid !important; }
+.display-table { display: table !important; }
+.display-tablecell { display: table-cell !important; }
+.display-tablecolumn { display: table-column !important; }
+.display-tablecolumngroup { display: table-column-group !important; }
+.display-tablefootergroup { display: table-footer-group !important; }
+.display-tableheadergroup { display: table-header-group !important; }
+.display-tablerow { display: table-row !important; }
+.display-tablerowgroup { display: table-row-group !important; }
+
+
+/*position*/
+.position-relative { position: relative !important }
+.position-absolute { position: absolute !important }
+.position-fixed { position: fixed !important }
+.position-inherit { position: inherit !important }
+.position-static { position: static !important }
+.position-sticky { position: sticky !important }
+
+
+/*float*/
+.float-left { float: left; }
+.float-right { float: right; }
+.float-none { float: none; }
+
+/*clicker*/
+._clicker {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

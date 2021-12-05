@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+.f-px-1 {font-size: 1px !important}.f-px-2 {font-size: 2px !important}.f-px-3 {font-size: 3px !important}.f-px-4 {font-size: 4px !important}.f-px-5 {font-size: 5px !important}.f-px-6 {font-size: 6px !important}.f-px-7 {font-size: 7px !important}.f-px-8 {font-size: 8px !important}.f-px-9 {font-size: 9px !important}.f-px-10 {font-size: 10px !important}.f-px-11 {font-size: 11px !important}.f-px-12 {font-size: 12px !important}.f-px-13 {font-size: 13px !important}.f-px-14 {font-size: 14px !important}.f-px-15 {font-size: 15px !important}.f-px-16 {font-size: 16px !important}.f-px-17 {font-size: 17px !important}.f-px-18 {font-size: 18px !important}.f-px-19 {font-size: 19px !important}.f-px-20 {font-size: 20px !important}.f-px-21 {font-size: 21px !important}.f-px-22 {font-size: 22px !important}.f-px-23 {font-size: 23px !important}.f-px-24 {font-size: 24px !important}.f-px-25 {font-size: 25px !important}.f-px-26 {font-size: 26px !important}.f-px-27 {font-size: 27px !important}.f-px-28 {font-size: 28px !important}.f-px-29 {font-size: 29px !important}.f-px-30 {font-size: 30px !important}.f-px-31 {font-size: 31px !important}.f-px-32 {font-size: 32px !important}.f-px-33 {font-size: 33px !important}.f-px-34 {font-size: 34px !important}.f-px-35 {font-size: 35px !important}.f-px-36 {font-size: 36px !important}.f-px-37 {font-size: 37px !important}.f-px-38 {font-size: 38px !important}.f-px-39 {font-size: 39px !important}.f-px-40 {font-size: 40px !important}.f-px-41 {font-size: 41px !important}.f-px-42 {font-size: 42px !important}.f-px-43 {font-size: 43px !important}.f-px-44 {font-size: 44px !important}.f-px-45 {font-size: 45px !important}.f-px-46 {font-size: 46px !important}.f-px-47 {font-size: 47px !important}.f-px-48 {font-size: 48px !important}.f-px-49 {font-size: 49px !important}.f-px-50 {font-size: 50px !important}.f-px-51 {font-size: 51px !important}.f-px-52 {font-size: 52px !important}.f-px-53 {font-size: 53px !important}.f-px-54 {font-size: 54px !important}.f-px-55 {font-size: 55px !important}.f-px-56 {font-size: 56px !important}.f-px-57 {font-size: 57px !important}.f-px-58 {font-size: 58px !important}.f-px-59 {font-size: 59px !important}.f-px-60 {font-size: 60px !important}.f-px-61 {font-size: 61px !important}.f-px-62 {font-size: 62px !important}.f-px-63 {font-size: 63px !important}.f-px-64 {font-size: 64px !important}.f-px-65 {font-size: 65px !important}.f-px-66 {font-size: 66px !important}.f-px-67 {font-size: 67px !important}.f-px-68 {font-size: 68px !important}.f-px-69 {font-size: 69px !important}.f-px-70 {font-size: 70px !important}.f-px-71 {font-size: 71px !important}.f-px-72 {font-size: 72px !important}.f-px-73 {font-size: 73px !important}.f-px-74 {font-size: 74px !important}.f-px-75 {font-size: 75px !important}.f-px-76 {font-size: 76px !important}.f-px-77 {font-size: 77px !important}.f-px-78 {font-size: 78px !important}.f-px-79 {font-size: 79px !important}.f-px-80 {font-size: 80px !important}.f-px-81 {font-size: 81px !important}.f-px-82 {font-size: 82px !important}.f-px-83 {font-size: 83px !important}.f-px-84 {font-size: 84px !important}.f-px-85 {font-size: 85px !important}.f-px-86 {font-size: 86px !important}.f-px-87 {font-size: 87px !important}.f-px-88 {font-size: 88px !important}.f-px-89 {font-size: 89px !important}.f-px-90 {font-size: 90px !important}.f-px-91 {font-size: 91px !important}.f-px-92 {font-size: 92px !important}.f-px-93 {font-size: 93px !important}.f-px-94 {font-size: 94px !important}.f-px-95 {font-size: 95px !important}.f-px-96 {font-size: 96px !important}.f-px-97 {font-size: 97px !important}.f-px-98 {font-size: 98px !important}.f-px-99 {font-size: 99px !important}.f-px-100 {font-size: 100px !important}
+
+
+.font-italic { font-style: italic !important }
+.font-oblique { font-style: oblique !important }
+.font-normal { font-style: normal !important }
+
+.text-center { text-align: center !important }
+.text-left { text-align: left !important }
+.text-right { text-align: right !important }
+.text-justify { text-align: justify !important }
+.text-end { text-align: end !important }
+.text-end { text-align: inherit !important }
+.text-justifyall { text-align: justify-all !important }
+.text-matchparent { text-align: match-parent !important }
+.text-start { text-align: start !important }
+
+.text-decoration-none { text-decoration: none !important }
+.text-decoration-solid { text-decoration-style: solid !important }
+.text-decoration-dashed { text-decoration-style: dashed !important }
+.text-decoration-dotted { text-decoration-style: dotted !important }
+.text-decoration-double { text-decoration-style: double !important }
+.text-decoration-wavy { text-decoration-style: wavy !important }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-13 09:34:05 --> 404 Page Not Found: IMedicare/060_medicare
+ERROR - 2021-06-13 11:27:20 --> Query error: Table 'db_imedicare.tbl_chat' doesn't exist - Invalid query:  select  count(tbl_chat.id) as msgCount  from tbl_chat  where tbl_chat.is_read = 0  and tbl_chat.receiver_id  = ''
+ERROR - 2021-06-13 11:34:10 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:34:39 --> 404 Page Not Found: Medicare/css
+ERROR - 2021-06-13 11:35:26 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:35:28 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:35:32 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:38:55 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:38:59 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:39:01 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:39:10 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:43:04 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:43:15 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:43:50 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 11:43:55 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:10:01 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:11:51 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:12:02 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:12:44 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:13:18 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:17:10 --> 404 Page Not Found: Medicare/css
+ERROR - 2021-06-13 18:17:30 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:17:54 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:17:57 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:18:54 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:19:02 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:20:03 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:20:15 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:20:35 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:20:54 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:21:02 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:21:42 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:21:44 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:24:18 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:24:28 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:24:37 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:25:00 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:25:06 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:25:08 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:25:10 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:26:43 --> 404 Page Not Found: Documents/userimages
+ERROR - 2021-06-13 18:26:47 --> 404 Page Not Found: Documents/userimages
